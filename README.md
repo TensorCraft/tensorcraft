@@ -8,6 +8,5 @@
   Interested in <b>artificial intelligence</b>, <b>systems programming</b>, <b>embedded software</b>, and <b>human intelligence tooling</b>.
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TensorCraft&show_icons=true&locale=en" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TensorCraft&show_icons=true&locale=en&layout=compact" height="160" />
 </p>
